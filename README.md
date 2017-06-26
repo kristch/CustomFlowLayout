@@ -1,2 +1,3 @@
 # CustomFlowLayout
 自定义流式布局，实现动态添加控件时自动根据控件长度按顺序一排一排显示控件，可以设置行间距。如该行容纳不下将自动换行。
+详细代码请参看demo里面的CustopmFlowLayout.java
